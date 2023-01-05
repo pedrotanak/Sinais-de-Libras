@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    margin: auto;
+}
+.heading{
+    font-size: 40px;
+    border-radius: 10px;
+    letter-spacing: 10px;
+}
+.titulo{
+    font-size: 25px;
+}
+.feliz{
+    font-size: 25px;
+    color: yellow;
+}
+.triste{
+    font-size: 25px;
+    color: rgb(84, 45, 224);
+}
+.bravo{
+    font-size: 25px;
+    color: rgb(196, 8, 8);
+}
+span{
+    font-size: 40px;
+}
+#camera,#foto{
+    border: 2px dashed black ;
+width: 355px;
+height: 205px;
+}

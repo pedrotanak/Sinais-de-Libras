@@ -30,3 +30,10 @@ span{
 width: 355px;
 height: 205px;
 }
+#emogiEmoção,#emogiEmoção2{
+    font-size: 50px;
+}
+#nomeEmoção,#nomeEmoção2{
+    font-size: 50px;
+    color: darkred;
+}
